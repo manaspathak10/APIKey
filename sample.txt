@@ -1,2 +1,5 @@
 "publicKeyToken"="JPkxhc9cGFv35OWu267fsx8R6uZj29GL";
-auth: JPkxhc9cGFv35OWu267fsx8R6uZj29GL
+"publicKeyToken"="asdsad";
+"auth"="abcdef12345";
+"publicKeyToken"="JPkxhc9cGFv35OWu267fsx8R6uZj29GL";
+
